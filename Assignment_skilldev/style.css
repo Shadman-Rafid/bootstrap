@@ -42,6 +42,10 @@
 .w-100{
     height: 100vh;
 }
+/* Explore section style */
+.explore .col{
+    background-color:lavender;
+}
 
 /* === responsive css === */
 @media only screen and (min-width: 768px) and (max-width: 991px){
